@@ -4,3 +4,13 @@ git init - iniciar repositorio, cria um repositório com um arquivo .git
 git status 
 rm - rf .git/
 git add   
+git commit -m ""
+git commit -am ""
+
+git log
+
+git log --oneline
+
+git show hash
+
+git log --author=
